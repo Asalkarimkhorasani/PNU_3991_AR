@@ -4,6 +4,7 @@
 - [GitHub](https://github.com/Asalkarimkhorasani)
 - [javascript](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/javascript%20certificate/JavaScript_certificate.jpg)
 - [jlord patchwork](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/jlord%20patchwork)
+- [Latex](https://github.com/Asalkarimkhorasani/Latex)
 ------------------
 ## روز و ساعت ارائه دروس
 
