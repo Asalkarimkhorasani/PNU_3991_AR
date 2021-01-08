@@ -6,6 +6,7 @@
 - [jlord patchwork](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/jlord%20patchwork)
 - [Latex](https://github.com/Asalkarimkhorasani/Latex)
 - [latex-powerpoint](https://github.com/Asalkarimkhorasani/latex_powerpoint)
+- [طرح دستی](https://github.com/Asalkarimkhorasani/Manual_desing)
 ------------------
 1. G-Theory-of-Languages-and-Machines
      1. [ TLM-02/54_محمدطاها گوينده برحقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/54_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
