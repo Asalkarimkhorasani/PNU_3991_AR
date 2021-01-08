@@ -19,7 +19,7 @@
 - [ارزیابی بخش عمومی ]
 
 #  بخش دروس کارشناسی 
-- [ارزیابی درس نظریه زبان ها و ماشین ها]
+- [ارزیابی درس نظریه زبان ها و ماشین ها](https://github.com/Asalkarimkhorasani/Theory-of-Languages-and-Machines_CheckList/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%86%D8%B8%D8%B1%DB%8C%D9%87%20%D8%B2%D8%A8%D8%A7%D9%86%20%D9%87%D8%A7%20%D9%88%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%87%D8%A7/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 - [ارزیابی درس تعامل انسان و کامپیوتر]
 ------------------
 1. G-Theory-of-Languages-and-Machines
