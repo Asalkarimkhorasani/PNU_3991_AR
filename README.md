@@ -1,4 +1,5 @@
 # PNU_3991_AR
+<div dir="rtl">
 - [Resume](https://asalkarimkhorasani.github.io/asalkh/)
 - [SOP](https://asalkarimkhorasani.github.io/sop/)
 - [GitHub](https://github.com/Asalkarimkhorasani)
@@ -36,7 +37,9 @@
      
 ------------------
 ## روز و ساعت ارائه دروس
+</div>
 
+<div dir="ltr">
 <table style="width:100%">
 <tr>
 <th >16-18</th>
@@ -95,4 +98,10 @@
 <th>پنج شنبه</th>
 </tr>
 </table>
+     
+</div>
+
+<br>
+
+
 بعلاوه آزمایشگاه فیزیک2 +آزمایشگاه معماری کامپیوتر +آزمایشگاه مدار الکتریکی و الکترونیکی
