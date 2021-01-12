@@ -45,6 +45,6 @@
 3. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
     - [Latex-Powerpoint](https://github.com/Asalkarimkhorasani/latex_powerpoint) 
     
-4.  [ارزیابی]()
+4.  [ارزیابی](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines_CheckList/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 
 </div>
