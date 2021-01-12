@@ -13,6 +13,7 @@
 - [معرفی یک درس مشابه در دانشگاههای دیگر (طراحی واسط کاربر (تعامل انسان و کامپیوتر))](https://communications.uoregon.edu/content/wireframes)
 - [تحليل سايت ](https://github.com/Asalkarimkhorasani/tahlil_sayt/blob/main/%D8%A8%D9%87%20%D9%86%D8%A7%D9%85%20%D8%AE%D8%AF%D8%A7.pdf)
 - [تعامل انسان و کامپیوتر ](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/humancomputerintraction/readme.md)
+- [نظریه زبان ها و ماشین ها ](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines_CheckList/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
 ------------------
 ارزیابی ها
 
