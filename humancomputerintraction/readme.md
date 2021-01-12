@@ -1,6 +1,6 @@
 <div dir="rtl">        
 
-# منا اندوری
+# عسل کریم خراسانی 
 
 
 ## دروس کارشناسی
@@ -25,12 +25,12 @@
 ##  سیاهه ارزشیابی درس
 
 1. **فعالیت های مشترک همه دانشجویان**
-  -  1. [ساخت اکانت گیت هاب](https://github.com/mona99a)
-  -  2. [آموزش گیت در سایت پچ ورک](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
-  -  3. [ارائه رزومه](https://mona99a.github.io/resume/)
-  -  4. [ارائه انگیزه نامه](https://mona99a.github.io/SOP/)
-  -  5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
-  -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
+  -  1. [ساخت اکانت گیت هاب](https://github.com/Asalkarimkhorasani)
+  -  2. [آموزش گیت در سایت پچ ورک](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/jlord%20patchwork/Screenshot%20(249)_LI.jpg)
+  -  3. [ارائه رزومه](https://asalkarimkhorasani.github.io/asalkh/)
+  -  4. [ارائه انگیزه نامه](https://asalkarimkhorasani.github.io/sop/)
+  -  5. [ایجاد ریپازیتوری PNU_3991_AR]()
+  -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/jlord%20patchwork)
 
 <br>
 
