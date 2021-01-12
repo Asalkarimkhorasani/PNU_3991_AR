@@ -29,7 +29,7 @@
   -  2. [آموزش گیت در سایت پچ ورک](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/jlord%20patchwork/Screenshot%20(249)_LI.jpg)
   -  3. [ارائه رزومه](https://asalkarimkhorasani.github.io/asalkh/)
   -  4. [ارائه انگیزه نامه](https://asalkarimkhorasani.github.io/sop/)
-  -  5. [ایجاد ریپازیتوری PNU_3991_AR]()
+  -  5. [ایجاد ریپازیتوری PNU_3991_AR](https://github.com/Asalkarimkhorasani/PNU_3991_AR)
   -  6. [گذراندن دوره js از سایت سولولرن](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/javascript%20certificate/JavaScript_certificate.jpg)
 
 <br>
