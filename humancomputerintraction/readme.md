@@ -72,7 +72,7 @@
       6. وایرفریم(صفحه ی اصلی سایت)
                 - [HomeScreen Wireframe-pdf]()
       7. ارائه    
-      8. ارزیابی
+      8. [ارزیابی](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/humancompoterinteraction_Checklist/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 
 </div>
