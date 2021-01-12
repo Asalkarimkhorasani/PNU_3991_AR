@@ -22,7 +22,7 @@
 
 #  بخش دروس کارشناسی 
 - [ارزیابی درس نظریه زبان ها و ماشین ها](https://github.com/Asalkarimkhorasani/Theory-of-Languages-and-Machines_CheckList/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%86%D8%B8%D8%B1%DB%8C%D9%87%20%D8%B2%D8%A8%D8%A7%D9%86%20%D9%87%D8%A7%20%D9%88%20%D9%85%D8%A7%D8%B4%DB%8C%D9%86%20%D9%87%D8%A7/XX_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
-- [ارزیابی درس تعامل انسان و کامپیوتر]
+- [ارزیابی درس تعامل انسان و کامپیوتر](https://github.com/Asalkarimkhorasani/HumanComputerInteraction_CheckList/blob/main/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 ------------------
 1. G-Theory-of-Languages-and-Machines
      1. [ TLM-02/54_محمدطاها گوينده برحقي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/54_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
