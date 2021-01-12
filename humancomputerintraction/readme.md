@@ -43,7 +43,7 @@
           - [modiseh](https://www.modiseh.com/)
     3. تحلیل نیازها
            <br>-هر دو عضو گروه یک نمونه مشابه
-           <br>[تحلیل سایت digistyle](https://github.com/mona99a/PNU_3991_AR/blob/main/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA/%D8%AA%D8%AD%D9%84%DB%8C%D9%84%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
+           <br>[تحلیل سایت digistyle](https://github.com/Asalkarimkhorasani/tahlil_sayt/blob/main/%D8%A8%D9%87%20%D9%86%D8%A7%D9%85%20%D8%AE%D8%AF%D8%A7.pdf)
           - ارائه نیازها همه گروه با هم
           
               ```diff
