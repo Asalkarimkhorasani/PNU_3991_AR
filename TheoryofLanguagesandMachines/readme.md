@@ -1,50 +1,50 @@
 <div dir="rtl">        
 
-# ãäÇ ÇäÏæÑí
+# Ø¹Ø³Ù„ Ú©Ø±ÛŒÙ… Ø®Ø±Ø§Ø³Ø§Ù†ÛŒ 
 
 
-## ÏÑæÓ ˜ÇÑÔäÇÓí
-1322108_01 ÊÚÇãá ÇäÓÇä æ ßÇãíæÊÑ 
+## Ø¯Ø±ÙˆØ³ Ú©Ø§Ø±Ø´Ù†Ø§Ø³ÛŒ
+1322108_01 ØªØ¹Ø§Ù…Ù„ Ø§Ù†Ø³Ø§Ù† Ùˆ ÙƒØ§Ù…Ù¾ÙŠÙˆØªØ± 
 
-1115157_02 äÙÑíå ÒÈÇä åÇ æ ãÇÔíä 
+1115157_02 Ù†Ø¸Ø±ÛŒÙ‡ Ø²Ø¨Ø§Ù† Ù‡Ø§ Ùˆ Ù…Ø§Ø´ÛŒÙ† 
 
 ------------------------
 <a name="team"></a>
-### ÇÚÖÇí Ñæå 
+### Ø§Ø¹Ø¶Ø§ÛŒ Ú¯Ø±ÙˆÙ‡ 
 1. G-Theory-of-Languages-and-Machines
-     1. [ TLM-02/54_ãÍãÏØÇåÇ æíäÏå ÈÑÍŞí](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/54_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
-     2. [ TLM-09_ãäÇ ÇäÏæÑí](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/09_%D9%85%D9%86%D8%A7%20%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%8A)
-     3. [ TLM-02/47_İÇØãå ŞÇÓãí](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/47_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A)
-     4. [ TLM-01/41_ÚÑİÇä ÚØÇãäÕæÑí](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/41_%D8%B9%D8%B1%D9%81%D8%A7%D9%86%20%D8%B9%D8%B7%D8%A7%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A)
-     5. [ TLM-01/53_ÚÓá ßÑíã ÎÑÇÓÇäí](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/53_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
-     6. [ TLM-01/58_ÒåÑÇ ãÇåÇä](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/58_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%85%D8%A7%D9%87%D8%A7%D9%86)
+     1. [ TLM-02/54_Ù…Ø­Ù…Ø¯Ø·Ø§Ù‡Ø§ Ú¯ÙˆÙŠÙ†Ø¯Ù‡ Ø¨Ø±Ø­Ù‚ÙŠ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/54_%D9%85%D8%AD%D9%85%D8%AF%D8%B7%D8%A7%D9%87%D8%A7%20%DA%AF%D9%88%D9%8A%D9%86%D8%AF%D9%87%20%D8%A8%D8%B1%D8%AD%D9%82%D9%8A)
+     2. [ TLM-09_Ù…Ù†Ø§ Ø§Ù†Ø¯ÙˆØ±ÙŠ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/09_%D9%85%D9%86%D8%A7%20%D8%A7%D9%86%D8%AF%D9%88%D8%B1%D9%8A)
+     3. [ TLM-02/47_ÙØ§Ø·Ù…Ù‡ Ù‚Ø§Ø³Ù…ÙŠ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/47_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%82%D8%A7%D8%B3%D9%85%D9%8A)
+     4. [ TLM-01/41_Ø¹Ø±ÙØ§Ù† Ø¹Ø·Ø§Ù…Ù†ØµÙˆØ±ÙŠ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/41_%D8%B9%D8%B1%D9%81%D8%A7%D9%86%20%D8%B9%D8%B7%D8%A7%D9%85%D9%86%D8%B5%D9%88%D8%B1%D9%8A)
+     5. [ TLM-01/53_Ø¹Ø³Ù„ ÙƒØ±ÙŠÙ… Ø®Ø±Ø§Ø³Ø§Ù†ÙŠ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/53_%D8%B9%D8%B3%D9%84%20%D9%83%D8%B1%D9%8A%D9%85%20%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%D9%8A)
+     6. [ TLM-01/58_Ø²Ù‡Ø±Ø§ Ù…Ø§Ù‡Ø§Ù†](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/58_%D8%B2%D9%87%D8%B1%D8%A7%20%D9%85%D8%A7%D9%87%D8%A7%D9%86)
      
 ------------------
 
 
-## ÓíÇåå ÇÑÒÔíÇÈí ÏÑÓ
+## Ø³ÛŒØ§Ù‡Ù‡ Ø§Ø±Ø²Ø´ÛŒØ§Ø¨ÛŒ Ø¯Ø±Ø³
     
-1. **İÚÇáíÊ åÇí ãÔÊÑ˜ åãå ÏÇäÔÌæíÇä**
-  -  1. [ÓÇÎÊ Ç˜ÇäÊ íÊ åÇÈ](https://github.com/mona99a)
-  -  2. [ÂãæÒÔ íÊ ÏÑ ÓÇíÊ  æÑ˜](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
-  -  3. [ÇÑÇÆå ÑÒæãå](https://mona99a.github.io/resume/)
-  -  4. [ÇÑÇÆå ÇäíÒå äÇãå](https://mona99a.github.io/SOP/)
-  -  5. [ÇíÌÇÏ ÑíÇÒíÊæÑí PNU_3991_AR](https://github.com/mona99a/PNU_3991_AR/tree/main)
-  -  6. [ĞÑÇäÏä ÏæÑå js ÇÒ ÓÇíÊ ÓæáæáÑä](https://github.com/mona99a/PNU_3991_AR/blob/main/jlord%20patchwork/patchwork.png)
-  -  7. [ãÔÇÑ˜Ê ÏÑ ÑæåÇí ÏÑÓí](#team)
+1. **ÙØ¹Ø§Ù„ÛŒØª Ù‡Ø§ÛŒ Ù…Ø´ØªØ±Ú© Ù‡Ù…Ù‡ Ø¯Ø§Ù†Ø´Ø¬ÙˆÛŒØ§Ù†**
+  -  1. [Ø³Ø§Ø®Øª Ø§Ú©Ø§Ù†Øª Ú¯ÛŒØª Ù‡Ø§Ø¨](https://github.com/Asalkarimkhorasani)
+  -  2. [Ø¢Ù…ÙˆØ²Ø´ Ú¯ÛŒØª Ø¯Ø± Ø³Ø§ÛŒØª Ù¾Ú† ÙˆØ±Ú©](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/jlord%20patchwork/Screenshot%20(249)_LI.jpg)
+  -  3. [Ø§Ø±Ø§Ø¦Ù‡ Ø±Ø²ÙˆÙ…Ù‡](https://asalkarimkhorasani.github.io/asalkh/)
+  -  4. [Ø§Ø±Ø§Ø¦Ù‡ Ø§Ù†Ú¯ÛŒØ²Ù‡ Ù†Ø§Ù…Ù‡](https://asalkarimkhorasani.github.io/sop/)
+  -  5. [Ø§ÛŒØ¬Ø§Ø¯ Ø±ÛŒÙ¾Ø§Ø²ÛŒØªÙˆØ±ÛŒ PNU_3991_AR](https://github.com/Asalkarimkhorasani/PNU_3991_AR)
+  -  6. [Ú¯Ø°Ø±Ø§Ù†Ø¯Ù† Ø¯ÙˆØ±Ù‡ js Ø§Ø² Ø³Ø§ÛŒØª Ø³ÙˆÙ„ÙˆÙ„Ø±Ù†](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/javascript%20certificate/JavaScript_certificate.jpg)
+  -  7. [Ù…Ø´Ø§Ø±Ú©Øª Ø¯Ø± Ú¯Ø±ÙˆÙ‡Ø§ÛŒ Ø¯Ø±Ø³ÛŒ](#team)
 
     
 
-2. **ÇÑÇÆå äæÔÊÇÑí ÏÑÓ ÇÒ ãäÇÈÚ ÏíÑ ÈÇ áÇÊ˜** 
+2. **Ø§Ø±Ø§Ø¦Ù‡ Ù†ÙˆØ´ØªØ§Ø±ÛŒ Ø¯Ø±Ø³ Ø§Ø² Ù…Ù†Ø§Ø¨Ø¹ Ø¯ÛŒÚ¯Ø± Ø¨Ø§ Ù„Ø§ØªÚ©** 
  - [Shyamalendu Kandar](http://library.lol/main/BA5FF8420F90F861837783127F524EC8) - Introduction to Automata Theory, Formal
  Languages and Computation-Pearson Education India (2016)
-    - **ÇÒ ÕİÍå :**  (33)
-    - **ÊÇ ÕİÍå :**  (36)
-    - []()
+    - **Ø§Ø² ØµÙØ­Ù‡ :**   (109)
+    - **ØªØ§Ø¢Ø®Ø± ØµÙØ­Ù‡ :**  (112)
+    - [latex](https://github.com/Asalkarimkhorasani/Latex)
     
-3. **ÇÑÇÆå ÔİÇåí Ïæ ãÓÇáå ÇÒ ãäÇÈÚ ÏíÑ ÈÇ áÇÊ˜** 
-    - []() 
+3. **Ø§Ø±Ø§Ø¦Ù‡ Ø´ÙØ§Ù‡ÛŒ Ø¯Ùˆ Ù…Ø³Ø§Ù„Ù‡ Ø§Ø² Ù…Ù†Ø§Ø¨Ø¹ Ø¯ÛŒÚ¯Ø± Ø¨Ø§ Ù„Ø§ØªÚ©** 
+    - [Latex-Powerpoint](https://github.com/Asalkarimkhorasani/latex_powerpoint) 
     
-4.  [ÇÑÒíÇÈí]()
+4.  [Ø§Ø±Ø²ÛŒØ§Ø¨ÛŒ]()
 
 </div>
