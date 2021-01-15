@@ -35,7 +35,9 @@
 <br>
 
 2. **فعالیت های گروهی**
-    1. [معرفی یک درس مشابه در دانشگاههای دیگر](https://communications.uoregon.edu/content/wireframes)
+    1. [معرفی یک درس مشابه در دانشگاههای دیگر]
+    - [oxford](https://global.oup.com/academic/category/science-and-mathematics/computer-science/human-computer-interaction/?cc=ro&lang=en&)<br>
+          - [university of oregon](https://communications.uoregon.edu/content/wireframes)
     2. انتخاب موضوع کار گروهی
            -تحلیل سایت های فروشگاه لباس انلاین 
           - [digistyle](https://www.digistyle.com/)
@@ -69,9 +71,8 @@
             - [ دوره طراحی رابط کاربرUI](https://toplearn.com/courses/2135/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-(-ui-))
            <br> -کتاب disigning with the Mind in Mind
       5. [طرح دستی صفحه اصلی وب سایت](https://github.com/Asalkarimkhorasani/Manual_desing/blob/main/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B3%D8%AA%DB%8C%20%D8%A7%D8%B2%20%D8%B5%D9%81%D8%AD%D9%87%20%D8%A7%D8%B5%D9%84%DB%8C%20%DB%8C%DA%A9%20%D8%B3%D8%A7%DB%8C%D8%AA.pdf)
-      6. وایرفریم(صفحه ی اصلی سایت)
-                - [HomeScreen Wireframe-pdf]()
-      7. ارائه    
+      6. [وایرفریم(صفحه ی اصلی سایت](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/wireframe)
+      7. [ارائه](https://drive.google.com/file/d/1DraJrXrI7kgefzYvYhY1YtOKbbbj8j-5/view)    
       8. [ارزیابی](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/humancompoterinteraction_Checklist/XX_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 
