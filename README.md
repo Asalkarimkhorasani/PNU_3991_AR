@@ -1,19 +1,27 @@
 # PNU_3991_AR
+---------------
 <div dir="rtl">
      
-     
+# عسل کریم خراسانی      
 - [Resume](https://asalkarimkhorasani.github.io/asalkh/)
 - [SOP](https://asalkarimkhorasani.github.io/sop/)
 - [GitHub](https://github.com/Asalkarimkhorasani)
 - [javascript](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/javascript%20certificate/JavaScript_certificate.jpg)
 - [jlord patchwork](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/jlord%20patchwork)
+------------------
+### ■[درس نظریه زبانها و ماشینها](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/TheoryofLanguagesandMachines)
 - [Latex](https://github.com/Asalkarimkhorasani/Latex)
 - [latex-powerpoint](https://github.com/Asalkarimkhorasani/latex_powerpoint)
+------------------
+### ■[درس تعامل انسان و کامپیوتر](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/humancomputerintraction/readme.md)
+- معرفی یک درس مشابه در دانشگاههای دیگر<br>
+          - [oxford](https://global.oup.com/academic/category/science-and-mathematics/computer-science/human-computer-interaction/?cc=ro&lang=en&)<br>
+          - [university of oregon](https://communications.uoregon.edu/content/wireframes)
 - [طرح دستی](https://github.com/Asalkarimkhorasani/Manual_desing)
 - [معرفی یک درس مشابه در دانشگاههای دیگر (طراحی واسط کاربر (تعامل انسان و کامپیوتر))](https://communications.uoregon.edu/content/wireframes)
 - [تحليل سايت ](https://github.com/Asalkarimkhorasani/tahlil_sayt/blob/main/%D8%A8%D9%87%20%D9%86%D8%A7%D9%85%20%D8%AE%D8%AF%D8%A7.pdf)
-- [تعامل انسان و کامپیوتر ](https://github.com/Asalkarimkhorasani/PNU_3991_AR/blob/main/humancomputerintraction/readme.md)
-- [نظریه زبان ها و ماشین ها ](https://github.com/Asalkarimkhorasani/PNU_3991_AR/tree/main/TheoryofLanguagesandMachines)
+- [وایرفریم(صفحه ی اصلی سایت]
+- [ارائه]
 ------------------
 ارزیابی ها
 
